@@ -94,6 +94,15 @@ Run the test suite to ensure everything is working correctly:
 ---
 
 
+## Demo
+
+#### Go Playing Agent Win
+![Go Playing Agent Win](public/white_win_go2.png)
+
+
+#### Human Win
+
+![Human Win](public/black_wins_go.png)
 
 ## Project Structure
 
@@ -124,6 +133,7 @@ mini-alphago/
 4. **Performance Optimization**:
     - Optimize MCTS for faster decision-making.
     - Use GPU acceleration for training and inference.
+
 
 
 ### Acknowledgments
